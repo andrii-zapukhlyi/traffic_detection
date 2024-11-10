@@ -1,4 +1,4 @@
-# Optimize traffic flow with YOLO algorithms
+# Optimize traffic flow with YOLO
 
 ## Objective
 Increasing numbers of cars in cities lead to traffic congestion, delays, and inefficient waiting at empty intersections. To address these challenges, many cities are adopting Intelligent Transportation Systems (ITS) for dynamic traffic management. A key component of ITS involves analyzing live CCTV camera feeds at intersections to monitor traffic conditions. However, manual monitoring is impractical and costly. 
