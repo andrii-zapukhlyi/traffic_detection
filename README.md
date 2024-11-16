@@ -18,6 +18,10 @@ Using a dataset of approximately 6,000 images collected from live cameras positi
 
 Once trained, the algorithm will be able to accurately identify these objects at intersections. This information will then be used to assess traffic density and determine the optimal timing for switching traffic lights, ultimately reducing idle wait times and improving traffic flow in real time.
 
-## Conclusion
+## Achievements
+The best model YOLOv8 achieved: 
+- mAP50@0.5: 0.93
+- F1 score: 0.9
 
+## Conclusion
 This project showcased the effectiveness of using YOLO algorithms for real-time traffic monitoring. YOLOv3, YOLOv5, and YOLOv8 were evaluated, with YOLOv8 emerging as the best balance between accuracy and training efficiency. Implementing YOLOv8 can enhance traffic flow management by accurately analyzing camera feeds and optimizing signal timings
